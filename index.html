@@ -10,9 +10,16 @@
 </head>
 <body>
   <div id="vue-app">
-    <h1>Good {{time}}</h1>
-    <span>{{name}}</span>
-    
+    <h1>{{name}}</h1>
+    <span>{{greet('afternoon')}}</span>
+    <a :href="website">website link</a>
+    <h2>my age is {{age}}</h2>
+    <div>
+      <button @click="addAge(10)">add age by 10</button>
+      <button @click="addAge(1)">add age by 1</button>
+      <button @click="substractAge(1)">substract age by 1</button>
+      <button @click="substractAge(10)">substract age by 10</button>
+    </div>
   </div>
 
   <script src="app.js"></script>
