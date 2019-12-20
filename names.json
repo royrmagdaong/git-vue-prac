@@ -1,0 +1,42 @@
+[
+    {
+        "name":"Roy",
+        "surname":"Magdaong",
+        "age":25
+    },
+    {
+        "name":"Hannah Eunice",
+        "surname":"Zaulda",
+        "age":22
+    },
+    {
+        "name":"Jeffrey",
+        "surname":"Nieva",
+        "age":24
+    },
+    {
+        "name":"Onyx",
+        "surname":"Pinca",
+        "age":22
+    },
+    {
+        "name":"John Ford",
+        "surname":"Laturnas",
+        "age":24
+    },
+    {
+        "name":"Lyka Camille",
+        "surname":"Rodriguez",
+        "age":23
+    },
+    {
+        "name":"Jhon Daniel",
+        "surname":"Catalan",
+        "age":22
+    },
+    {
+        "name":"Robilyn",
+        "surname":"Gabor",
+        "age":22
+    }
+]
